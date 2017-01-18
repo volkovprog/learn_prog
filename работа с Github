@@ -23,6 +23,14 @@ git remote add origin https://github.com/<Ваш логин на гитхаб/р
 Ввести свой пароль
 
 
+После того, как файлы из проекта изменятся:
+git status
+dit add -all .
+git commit -m "Кратко комментим, какие произошли изменения"
+git push
+
+
+
 
 
 

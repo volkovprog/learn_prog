@@ -1,7 +1,7 @@
 #Функция print() печатает строку
 print("Hello, CS50")
 
-#Бесконеный цикл
+#Бесконечный цикл
 #while True:
 #	print("РHello, World!")
 	
