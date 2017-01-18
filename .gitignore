@@ -1,0 +1,5 @@
+*.pyc
+__pycashe__
+env
+.DS_Store
+db.sqlite3
