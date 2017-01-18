@@ -25,9 +25,9 @@ x, y = input("Введите 2 числа: ").split()
 x = int(x)
 y = int(y)
 print("{} + {} = {}".format(x, y, x +y ))
-print("{} + {} = {}".format(x, y, x - y))
-print("{} + {} = {}".format(x, y, x * y))
-print("{} + {} = {}".format(x, y, x / y))
+print("{} - {} = {}".format(x, y, x - y))
+print("{} x {} = {}".format(x, y, x * y))
+print("{} / {} = {}".format(x, y, x / y))
 #=========================================#
 
 #Комментарии

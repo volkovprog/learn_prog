@@ -25,7 +25,7 @@ git remote add origin https://github.com/<Ваш логин на гитхаб/р
 
 После того, как файлы из проекта изменятся:
 git status
-dit add -all .
+git add --all .
 git commit -m "Кратко комментим, какие произошли изменения"
 git push
 
