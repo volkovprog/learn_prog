@@ -1,0 +1,28 @@
+Перейти в директорию с проектом
+выполнить в терминале git init
+
+git config --global user.name "name"
+git config --global user.email mail@mail.ru
+
+Создание в директории с проектом файла .gitignore и помещение туда имен папок и файлов, которые не нужно отправлять на Github
+например:
+*.pyc
+__pycashe__
+env
+db.sqlite3
+
+git status
+git add --all .
+git commit -m "Тут любой Комментарий!"
+
+Зайти на Github и создать новый репозиторий
+скопировать https ссылку для клонирования репозитория и вставить ее в окно терминала
+git remote add origin https://github.com/<Ваш логин на гитхаб/репозиторий.git
+
+Ввести свой логин 
+Ввести свой пароль
+
+
+
+
+
